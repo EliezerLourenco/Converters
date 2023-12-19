@@ -33,5 +33,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [lourenco.eliezer@gmail.com](mailto:lourenco.eliezer@gmail.com)
 
-Project Link: [https://github.com/yourusername/converters](https://github.com/yourusername/converters)
+Project Link: [https://github.com/EliezerLourenco/Converters](https://github.com/EliezerLourenco/Converters)
 
